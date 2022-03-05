@@ -1,0 +1,10 @@
+{
+    "Games": [
+        {
+            "Name": "Doom",
+            "Path": "None",
+            "Exec": "C:\\Users\\th3en\\Documents\\Emul\\src\\games\\Doom\\doom.exe"
+        }
+    ],
+    "Config": []
+}
