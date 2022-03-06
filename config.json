@@ -2,8 +2,11 @@
     "Games": [
         {
             "Name": "Doom",
-            "Path": "None",
             "Exec": "C:\\Users\\th3en\\Documents\\Emul\\src\\games\\Doom\\doom.exe"
+        },
+        {
+            "Name": "Laba2",
+            "Exec": "C:\\Users\\th3en\\Documents\\Emul\\src\\games\\PNL\\LAB2.EXE"
         }
     ],
     "Config": []
